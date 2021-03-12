@@ -1,1 +1,1 @@
-npx degit reepolee/svelte-routify-windi-vite -f
+npx degit reepolee/svelte-routify-windi-vite#main -f
